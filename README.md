@@ -45,7 +45,8 @@ php artisan db:seed
 
 ### 9. Chạy Ứng Dụng Laravel:
 php artisan serve
-.Sau đó, bạn có thể truy cập ứng dụng Laravel của mình tại `http://localhost:8000` trong trình duyệt web của bạn.
+
+Sau đó, bạn có thể truy cập ứng dụng Laravel của mình tại `http://localhost:8000` trong trình duyệt web của bạn.
 
 
 **Lưu ý**:
