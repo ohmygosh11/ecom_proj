@@ -23,10 +23,15 @@ php artisan key:generate
 
 ### 6. Cấu Hình Database:
 DB_CONNECTION=mysql
+
 DB_HOST=127.0.0.1
+
 DB_PORT=3306
+
 DB_DATABASE=ten_database
+
 DB_USERNAME=ten_nguoi_dung
+
 DB_PASSWORD=mat_khau
 
 
@@ -40,7 +45,7 @@ php artisan db:seed
 
 ### 9. Chạy Ứng Dụng Laravel:
 php artisan serve
-Sau đó, bạn có thể truy cập ứng dụng Laravel của mình tại `http://localhost:8000` trong trình duyệt web của bạn.
+.Sau đó, bạn có thể truy cập ứng dụng Laravel của mình tại `http://localhost:8000` trong trình duyệt web của bạn.
 
 
 **Lưu ý**:
