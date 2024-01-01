@@ -1,5 +1,8 @@
 Để tải một dự án Laravel từ GitHub về và chạy dự án, bạn có thể thực hiện các bước sau:
 
+### 0. Tạo database:
+Tại phpMyAdmin tạo database, tải file baocao.sql rồi import vào database.
+
 
 ### 1. Clone Repository từ GitHub:
 git clone https://github.com/ohmygosh11/ecom_proj.git
